@@ -1,0 +1,10 @@
+0 Again
+1 Food
+2 Hello!
+3 Help!
+4 Me
+5 Name
+6 Sorry!
+7 Want
+8 Yes!
+9 You
